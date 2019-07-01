@@ -1,0 +1,2 @@
+#define ERSATZ_API __declspec(dllexport)
+#define ERSATZ_API __declspec(dllimport)
